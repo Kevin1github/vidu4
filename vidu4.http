@@ -1,0 +1,6 @@
+@vidu4_HostAddress = http://localhost:5008
+
+GET {{vidu4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
